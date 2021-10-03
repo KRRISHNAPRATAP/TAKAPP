@@ -1,7 +1,6 @@
 
 const User = require('../models/users');
-const Hotel = require('../models/hotel');
-const Order = require('../models/order');
+
 const Passport = require('passport');
 
 // Express validator
